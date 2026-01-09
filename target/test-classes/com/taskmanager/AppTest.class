@@ -1,0 +1,16 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+package com.taskmanager;
+
+public class AppTest {
+   public AppTest(String var1) {
+      throw new Error("Unresolved compilation problems: \n\tThe import junit cannot be resolved\n\tThe import junit cannot be resolved\n\tThe import junit cannot be resolved\n\tTestCase cannot be resolved to a type\n\tTest cannot be resolved to a type\n\tTestSuite cannot be resolved to a type\n\tThe method assertTrue(boolean) is undefined for the type AppTest\n");
+   }
+
+   public static Test suite() {
+      throw new Error("Unresolved compilation problems: \n\tTest cannot be resolved to a type\n\tTestSuite cannot be resolved to a type\n");
+   }
+
+   public void testApp() {
+      throw new Error("Unresolved compilation problem: \n\tThe method assertTrue(boolean) is undefined for the type AppTest\n");
+   }
+}
